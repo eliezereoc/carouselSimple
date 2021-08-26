@@ -1,5 +1,5 @@
 # carouselSimple
 Simples Carrocel  
-> HTML
-> CSS
-> Responsivo
+> HTML  
+> CSS  
+> Responsivo  
